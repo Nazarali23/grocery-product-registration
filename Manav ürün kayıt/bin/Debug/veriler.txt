@@ -1,0 +1,1 @@
+2;soğan;9,9;SEBZE#4;domates;32,6;SEBZE#5;elma;30,19;MEYVE#

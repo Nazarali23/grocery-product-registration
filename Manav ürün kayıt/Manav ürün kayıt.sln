@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manav ürün kayıt", "Manav ürün kayıt.csproj", "{6BB368D6-88F7-435F-A9BB-A3291A0F310E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Manav Ürün Kayıt Setup", "Manav Ürün Kayıt Setup\Manav Ürün Kayıt Setup.vdproj", "{0C337565-0B4C-4C24-A398-BFC4C853DC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB368D6-88F7-435F-A9BB-A3291A0F310E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB368D6-88F7-435F-A9BB-A3291A0F310E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB368D6-88F7-435F-A9BB-A3291A0F310E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB368D6-88F7-435F-A9BB-A3291A0F310E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C337565-0B4C-4C24-A398-BFC4C853DC8A}.Debug|Any CPU.ActiveCfg = Debug
+		{0C337565-0B4C-4C24-A398-BFC4C853DC8A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C24AEB0-A3C6-4578-A2E8-EFE89DE16807}
+	EndGlobalSection
+EndGlobal

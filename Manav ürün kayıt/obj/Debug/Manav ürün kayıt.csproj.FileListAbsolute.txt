@@ -1,0 +1,20 @@
+C:\Users\nazar\Desktop\Manav ürün kayıt\bin\Debug\Manav ürün kayıt.exe.config
+C:\Users\nazar\Desktop\Manav ürün kayıt\bin\Debug\Manav ürün kayıt.exe
+C:\Users\nazar\Desktop\Manav ürün kayıt\bin\Debug\Manav ürün kayıt.pdb
+C:\Users\nazar\Desktop\Manav ürün kayıt\obj\Debug\Manav ürün kayıt.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\Manav ürün kayıt\obj\Debug\Manav_ürün_kayıt.Form1.resources
+C:\Users\nazar\Desktop\Manav ürün kayıt\obj\Debug\Manav_ürün_kayıt.Properties.Resources.resources
+C:\Users\nazar\Desktop\Manav ürün kayıt\obj\Debug\Manav ürün kayıt.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\Manav ürün kayıt\obj\Debug\Manav ürün kayıt.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\Manav ürün kayıt\obj\Debug\Manav ürün kayıt.exe
+C:\Users\nazar\Desktop\Manav ürün kayıt\obj\Debug\Manav ürün kayıt.pdb
+C:\Users\nazar\Desktop\PROJELERİM\Manav ürün kayıt\bin\Debug\Manav ürün kayıt.exe.config
+C:\Users\nazar\Desktop\PROJELERİM\Manav ürün kayıt\bin\Debug\Manav ürün kayıt.exe
+C:\Users\nazar\Desktop\PROJELERİM\Manav ürün kayıt\bin\Debug\Manav ürün kayıt.pdb
+C:\Users\nazar\Desktop\PROJELERİM\Manav ürün kayıt\obj\Debug\Manav ürün kayıt.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\PROJELERİM\Manav ürün kayıt\obj\Debug\Manav_ürün_kayıt.Form1.resources
+C:\Users\nazar\Desktop\PROJELERİM\Manav ürün kayıt\obj\Debug\Manav_ürün_kayıt.Properties.Resources.resources
+C:\Users\nazar\Desktop\PROJELERİM\Manav ürün kayıt\obj\Debug\Manav ürün kayıt.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\PROJELERİM\Manav ürün kayıt\obj\Debug\Manav ürün kayıt.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\PROJELERİM\Manav ürün kayıt\obj\Debug\Manav ürün kayıt.exe
+C:\Users\nazar\Desktop\PROJELERİM\Manav ürün kayıt\obj\Debug\Manav ürün kayıt.pdb
